@@ -1,2 +1,3 @@
 ECHO is on.
 update1 
+update2 
