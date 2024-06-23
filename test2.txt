@@ -1,4 +1,0 @@
-ECHO is on.
-update1 
-
-there is a lot of changes here..
